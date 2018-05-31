@@ -1,0 +1,107 @@
+[
+  {
+    "activityID": 0,
+    "status": "open",
+    "subActivities":
+    [
+      {
+        "activityID": 1,
+        "status": "open",
+        "subActivities":
+        [
+          {
+            "activityID": 11,
+            "status": "open",
+            "subActivities": []
+          },
+          {
+            "activityID": 12,
+            "status": "open",
+            "subActivities": []
+          }
+        ]
+      },
+      {
+        "activityID": 2,
+        "status": "open",
+        "subActivities":
+        [
+          {
+            "activityID": 21,
+            "status": "open",
+            "subActivities": []
+          },
+          {
+            "activityID": 22,
+            "status": "open",
+            "subActivities": []
+          }
+        ]
+      },
+      {
+        "activityID": 3,
+        "status": "open",
+        "subActivities": []
+      },
+      {
+        "activityID": 4,
+        "status": "open",
+        "subActivities":
+        [
+          {
+            "activityID": 41,
+            "status": "open",
+            "subActivities": []
+          },
+          {
+            "activityID": 42,
+            "status": "open",
+            "subActivities":
+            [
+              {
+                "activityID": 421,
+                "status": "open",
+                "subActivities":
+                [
+                  {
+                    "activityID": 4211,
+                    "status": "open",
+                    "subActivities":
+                    [
+                      {
+                        "activityID": 42111,
+                        "status": "open",
+                        "subActivities": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "activityID": 422,
+                "status": "open",
+                "subActivities": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "activityID": 7,
+    "status": "open",
+    "subActivities":[]
+  },
+  {
+    "activityID": 8,
+    "status": "open",
+    "subActivities":[]
+  },
+  {
+    "activityID": 9,
+    "status": "open",
+    "subActivities":[]
+  }
+
+]
